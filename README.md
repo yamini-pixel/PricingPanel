@@ -1,2 +1,2 @@
 # PricingPanel
-This is a static interface for a price panel
+This is a static interface for a pricing panel
